@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="77204513-51b1-46ed-90c2-c4e01c354dc3" name="dima.ekapusta.ru" url="http://dima.ekapusta.ru">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
